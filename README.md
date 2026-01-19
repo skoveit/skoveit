@@ -2,3 +2,6 @@
  
 ![](https://nirzak-streak-stats.vercel.app/?user=skoveit&theme=dark&hide_border=false)<br/>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" alt="Footer" />
+</div>
