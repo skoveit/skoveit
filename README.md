@@ -15,4 +15,5 @@ Hi, I'm skove — **offensive security researcher · red team operator · malwar
 │   └── Task-Flow       → Unified academic management (contributor)
 └── bugs/
     └── CVE-2026-29781
+    └── CVE-2026-32941
 ```
