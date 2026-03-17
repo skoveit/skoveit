@@ -4,7 +4,7 @@ Hi, I'm skove — **offensive security researcher · red team operator · malwar
 ~/projects
 ├── c2/
 │   ├── SkoveNet        → decentralized C2 framework
-│   ├── Sliver          → #15 contributor
+│   ├── Sliver          → #12 contributor
 │   └── SliverBane      → attack sliver servers
 ├── maldev/
 │   ├── maldev-utils    → malware development utilities
