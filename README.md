@@ -14,6 +14,8 @@ Hi, I'm skove — **offensive security researcher · red team operator · malwar
 │   └── foodle          → open-source school forum (moodle alternative)
 │   └── Task-Flow       → Unified academic management (contributor)
 └── bugs/
+    └── CVE-2026-34200
     └── CVE-2026-29781
     └── CVE-2026-32941
+
 ```
