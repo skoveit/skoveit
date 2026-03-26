@@ -17,5 +17,4 @@ Hi, I'm skove — **offensive security researcher · red team operator · malwar
     └── CVE-2026-34200
     └── CVE-2026-29781
     └── CVE-2026-32941
-
 ```
