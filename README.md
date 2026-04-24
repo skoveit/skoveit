@@ -1,4 +1,4 @@
-Hi, I'm skove - **offensive security researcher · red team operator · malware developer**
+Hi, I'm skove - offensive security engineer
 
 ```
 ~/projects
