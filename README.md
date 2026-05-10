@@ -13,6 +13,7 @@ Hi, I'm skove - offensive security engineer
 ├── web/
 │   └── foodle          → open-source school forum (moodle alternative)
 │   └── Task-Flow       → Unified academic management (contributor)
+│   └── seniorclub      → Management System - seniorclub.github.io 
 └── bugs/
     └── CVE-2026-41574
     └── CVE-2026-34200
