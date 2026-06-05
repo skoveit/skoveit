@@ -1,5 +1,3 @@
-Hi, I'm skove - offensive security engineer
-
 ```
 ~/projects
 ├── c2/
