@@ -2,7 +2,7 @@
 ~/projects
 ├── c2/
 │   ├── SkoveNet        → decentralized C2 framework
-│   ├── Sliver          → #12 contributor
+│   ├── Sliver          → contributor
 │   └── SliverBane      → attack sliver servers
 ├── maldev/
 │   ├── maldev-utils    → malware development utilities
