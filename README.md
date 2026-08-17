@@ -18,4 +18,8 @@
     └── CVE-2026-32941
     └── CVE-2026-34227
     └── CVE-2026-29781
+
+~/contact
+├── anas@nhost.io
+└── skoveit@proton.me
 ```
