@@ -20,6 +20,6 @@
     └── CVE-2026-29781
 
 ~/contact
-├── anas@nhost.io
-└── skoveit@proton.me
+├── work    → anas@nhost.io 
+└── proton  → skoveit@proton.me 
 ```
