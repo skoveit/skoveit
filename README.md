@@ -2,7 +2,7 @@
 ~/projects
 ├── c2/
 │   ├── SkoveNet        → decentralized C2 framework
-│   ├── Sliver          → contributor
+│   └── Sliver          → contributor
 ├── maldev/
 │   ├── maldev-utils    → malware development utilities
 │   ├── RAMx            → RAM analysis using GPU (CUDA)
