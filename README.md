@@ -3,7 +3,6 @@
 ├── c2/
 │   ├── SkoveNet        → decentralized C2 framework
 │   ├── Sliver          → contributor
-│   └── SliverBane      → attack sliver servers
 ├── maldev/
 │   ├── maldev-utils    → malware development utilities
 │   ├── RAMx            → RAM analysis using GPU (CUDA)
