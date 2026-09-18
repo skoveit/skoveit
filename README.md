@@ -5,8 +5,7 @@
 │   └── BishopFox/sliver  → contributor
 ├── maldev/
 │   ├── maldev-utils      → malware development utilities
-│   ├── RAMx              → RAM analysis using GPU (CUDA)
-│   └── serveo.auto       → persistence backdoor script
+│   └── RAMx              → RAM analysis using GPU (CUDA)
 ├── web/
 │   └── foodle            → open-source school forum (moodle alternative)
 │   └── Task-Flow         → Unified academic management (contributor)
