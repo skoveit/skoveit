@@ -12,8 +12,8 @@
 │   └── seniorclub        → Management System - seniorclub.github.io 
 └── bugs/
     ├── CVE-2026-41574
-    ├── ... show more
-    └── CVE-2026-29781
+    ├── CVE-2026-29781
+    └── ... show more
 
 ~/contact
 ├── work                 → anas@nhost.io 
