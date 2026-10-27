@@ -1,5 +1,4 @@
 ```
-~/contact
-├── work                 → anas@nhost.io 
-└── proton               → skoveit@proton.me 
+$ ls emails.txt
+anas@nhost.io   skoveit@proton.me 
 ```
